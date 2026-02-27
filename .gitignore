@@ -1,0 +1,4 @@
+minikube-linux-amd64
+*.log
+*.tar
+minikube-linux-amd64
